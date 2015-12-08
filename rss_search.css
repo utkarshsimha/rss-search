@@ -1,0 +1,33 @@
+input[type=text]{
+  position: absolute;
+  top: 30%;
+  left:30%;
+  width: 500px;
+  height: 20px;
+}
+
+input[type=button] {
+  position: absolute;
+  top: 37%;
+  left: 46%;
+  width: 70px;
+}
+
+img#rss_big {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top:10%;
+  left:45%;
+}
+
+div#results {
+  position: absolute;
+  top:45%;
+  left:22%;
+  border: 2px solid black;
+  width: 700px;
+  height: 200px;
+  display: none;
+  text-align: center;
+}
